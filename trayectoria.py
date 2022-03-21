@@ -51,8 +51,8 @@ def grafica(frame,x=0):
 
     line.set_data(x_data, y_data)
     
-    #figure.gca().relim()
-    #figure.gca().autoscale_view()
+    figure.gca().relim()
+    figure.gca().autoscale_view()
     return line,
 
 
