@@ -1,0 +1,19 @@
+ GFS#                                                      
+ Latitude:-32.89 Longitude: -68.86 &               
+ DATA INITIAL TIME: 30 MAY 2022 12Z&     
+ CALCULATION STARTED AT: 30 MAY 2022 12Z&
+ HOURS OF CALCULATION:           24 &
+
+FIELD WIND DIRECTION WIND SPEED     
+LEVEL      10 M           10 M 
+UNITS      DEG            KTS  
+ HR
++  0.    137.2            2.5
++  3.    107.9            5.7
++  6.     96.1            6.0
++  9.     90.8            4.6
++ 12.     86.5            3.2
++ 15.    107.9            1.9
++ 18.     26.3            0.9
++ 21.      0.8            1.1
++ 24.     67.2            1.9
